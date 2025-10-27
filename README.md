@@ -4,11 +4,11 @@ Simple Flask REST API for analyzing Python code quality. Checks code for common 
 
 ## Features
 
-- 🔍 Analyzes Python code for clarity issues
-- 📊 Scoring system (0-100 points)
-- 💾 Stores analysis results in SQLite database
-- 🚀 Simple REST API
-- 📁 Upload files or send raw code
+- Analyzes Python code for clarity issues
+- Scoring system (0-100 points)
+- Stores analysis results in SQLite database
+- Simple REST API
+- Upload files or send raw code
 
 ## Quick Start
 
