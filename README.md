@@ -132,7 +132,7 @@ code-analyzer-api/
 └── analyzer.db        # SQLite database (created automatically)
 ```
 
-## Testing
+## Test
 
 Test with the provided example file:
 ```bash
